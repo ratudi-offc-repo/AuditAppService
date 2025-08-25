@@ -2,14 +2,12 @@
 
 ## Overview
 
-AuditAppService is a service designed to facilitate and manage audit operations within your organization or application. It provides APIs and utilities to record, query, and analyze audit events, ensuring accountability and compliance.
+AuditAppService is a service designed to facilitate and manage audit operations within the application. It provides APIs and utilities to record, query, and analyze audit events, ensuring accountability and compliance.
 
 ## Features
 
 - Record audit events with detailed metadata
 - Query audit logs by user, action, or time period
-- Export audit data for reporting and compliance
-- Customizable event types and retention policies
 
 ## Installation
 
@@ -20,6 +18,7 @@ git clone https://github.com/ratudi-offc-repo/AuditAppService.git
 # Navigate to the project directory
 cd AuditAppService
 ```
+open the solution file and run the project
 
 
 ## API Endpoints
