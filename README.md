@@ -23,9 +23,9 @@ open the solution file and run the project
 
 ## API Endpoints
 
-| Method | Endpoint                | Description                   |
-|--------|------------------------ |------------------------------|
-| POST   | /audit/events           | Record an audit event         |
-| GET    | /audit/events           | List or query audit events    |
-| GET    | /audit/events/{id}      | Get details of a specific event|
+| Method | Endpoint          | Description                    |
+|--------|-------------------|--------------------------------|
+| POST   | /audits           | Record an audit event          |
+| GET    | /audits           | List or query audit events     |
+| GET    | /audits/{id}      | Get details of a specific event|
 
