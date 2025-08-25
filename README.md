@@ -30,6 +30,3 @@ cd AuditAppService
 | GET    | /audit/events           | List or query audit events    |
 | GET    | /audit/events/{id}      | Get details of a specific event|
 
-
-
-For support or questions, please contact [your.email@example.com].
